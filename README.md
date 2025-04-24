@@ -43,6 +43,15 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ZunaishaN00R">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZunaishaN00R&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunaishaN00R&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+</div>
+
 ## 🛠️ Technical Stack
 ```python
 {
@@ -53,13 +62,4 @@
   "Tools": ["Altium", "Git", "VS Code"]
 }
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ZunaishaN00R">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZunaishaN00R&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZunaishaN00R&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  </a>
-</div>
