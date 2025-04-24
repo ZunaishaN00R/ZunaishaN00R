@@ -15,7 +15,6 @@
 - **Machine Learning/Deep Learning**  
   PM's Youth Skill Development Program | Superior University (Sep 2022)  
   ![AI](https://img.shields.io/badge/🔬-AI-yellowgreen)
-  ![Image](https://github.com/user-attachments/assets/3ffed655-e048-4f3f-83cd-631ac501eddf)
 
 ### 💻 Technical Skills
 - **PCB Designing using Altium**  
@@ -37,7 +36,6 @@
 - **Freelancing** | DigiSkills (Oct 2023)  
 - **Virtual Assistant** | DigiSkills (Feb 2024)  
 - **Communication & Soft Skills** | DigiSkills (Oct 2023)
-  [COMMUNICATION AND SOFT SKILLS.pdf](https://github.com/user-attachments/files/19885322/COMMUNICATION.AND.SOFT.SKILLS.pdf)
 
 ### 🌱 Personal Growth
 - **40-Day Sunnah Challenge** | SOSS  
