@@ -15,6 +15,7 @@
 - **Machine Learning/Deep Learning**  
   PM's Youth Skill Development Program | Superior University (Sep 2022)  
   ![AI](https://img.shields.io/badge/🔬-AI-yellowgreen)
+  ![Image](https://github.com/user-attachments/assets/3ffed655-e048-4f3f-83cd-631ac501eddf)
 
 ### 💻 Technical Skills
 - **PCB Designing using Altium**  
