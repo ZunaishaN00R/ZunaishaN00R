@@ -41,7 +41,7 @@
   [![Verify](https://img.shields.io/badge/📜-Verify_Certificate-blue)](https://digiskills.pk/verify)  
   ![Data](https://img.shields.io/badge/📈-Data_Analytics-blueviolet)
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/dfe433fb-bb29-472c-92cd-a8046a61c314" width="45%" />
+    <img src="https://github.com/user-attachments/assets/6cfa49bb-9c18-4468-be36-dc8d89c144a3" width="45%" />
   </div>
 
 ### 🚀 Professional Development
@@ -55,7 +55,7 @@
     </div>
 - **Communication & Soft Skills** | DigiSkills (Oct 2023)
     <div align="center">
-      <img src="https://github.com/user-attachments/assets/df0a7edd-c181-474a-9f86-76d5b34abb42" width="45%" />
+      <img src="https://github.com/user-attachments/assets/9f6bd7b1-d9f5-42c0-a6a3-5f7a5fe11054" width="45%" />
     </div>
 
 ### 🌱 Personal Growth
