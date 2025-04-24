@@ -41,21 +41,21 @@
   [![Verify](https://img.shields.io/badge/📜-Verify_Certificate-blue)](https://digiskills.pk/verify)  
   ![Data](https://img.shields.io/badge/📈-Data_Analytics-blueviolet)
   <div align="center">
-    <img src="" width="45%" />
+    <img src="https://github.com/user-attachments/assets/42ca4bb9-743d-47f5-befe-1bed345d69bd" width="45%" />
   </div>
 
 ### 🚀 Professional Development
 - **Freelancing** | DigiSkills (Oct 2023)
     <div align="center">
-      <img src="" width="45%" />
+      <img src="https://github.com/user-attachments/assets/73124fdd-07c2-4c2c-b982-41ac4f7381ec" width="45%" />
     </div>
 - **Virtual Assistant** | DigiSkills (Feb 2024)
     <div align="center">
-      <img src="" width="45%" />
+      <img src="https://github.com/user-attachments/assets/b818226a-ea41-4dd6-9d2b-754a59aaff58" width="45%" />
     </div>
 - **Communication & Soft Skills** | DigiSkills (Oct 2023)
     <div align="center">
-      <img src="" width="45%" />
+      <img src="https://github.com/user-attachments/assets/a050f6c7-e140-4394-a9ab-15c738e75a4e" width="45%" />
     </div>
 
 ### 🌱 Personal Growth
