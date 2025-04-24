@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://zunaishanoorportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/zunaisha-noor-982791315)
 [![Facebook](https://img.shields.io/badge/📘-Facebook-blue)](https://facebook.com/profile.php?id=61565115026868)
-[![Instagram](https://img.shields.io/badge/📸-Instagram-red)](https://instagram.com/zunaisha1767)
+[![Instagram](https://img.shields.io/badge/📸-Instagram-red)]([https://instagram.com/zunaisha1767](https://www.instagram.com/zunaisha1767?igsh=MWNoeGwzeGZld2MwZw==))
 
 ---
 
@@ -52,6 +52,8 @@
   "Web": ["FastAPI", "React"],
   "Tools": ["Altium", "Git", "VS Code"]
 }
+
+---
 
 ## 📈 GitHub Stats
 
