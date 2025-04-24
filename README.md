@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://zunaishanoorportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/zunaisha-noor-982791315)
 [![Facebook](https://img.shields.io/badge/📘-Facebook-blue)](https://facebook.com/profile.php?id=61565115026868)
-[![Instagram](https://img.shields.io/badge/📸-Instagram-red)]([https://instagram.com/zunaisha1767](https://www.instagram.com/zunaisha1767?igsh=MWNoeGwzeGZld2MwZw==))
+[![Instagram](https://img.shields.io/badge/📸-Instagram-red)](https://www.instagram.com/zunaisha1767?igsh=MWNoeGwzeGZld2MwZw==)
 
 ---
 
@@ -23,19 +23,27 @@
 
 - **Front-End Development**  
   Meta via Coursera (Feb 2024)  
-  [![Verify](https://img.shields.io/badge/📜-Verify_Certificate-blue)](https://coursera.org/verify/72Y5ZXSY8KNR)  
+  [![Certificate](https://github.com/user-attachments/assets/fde2d347-afb5-4c16-9b4b-894e9dfdcf52)](https://coursera.org/verify/72Y5ZXSY8KNR)  
   ![Web](https://img.shields.io/badge/🌐-Web_Dev-brightgreen)
 
 ### 📊 Data & Business
 - **Data Analytics & Business Intelligence**  
   DigiSkills (Feb 2024)  
-  [![Verify](https://img.shields.io/badge/📜-Verify_Certificate-blue)](https://digiskills.pk/verify)  
+  [![Certificate](https://github.com/user-attachments/assets/d21d3541-59bd-421a-90de-50712021a46f)](https://digiskills.pk/verify)  
   ![Data](https://img.shields.io/badge/📈-Data_Analytics-blueviolet)
 
 ### 🚀 Professional Development
-- **Freelancing** | DigiSkills (Oct 2023)  
-- **Virtual Assistant** | DigiSkills (Feb 2024)  
-- **Communication & Soft Skills** | DigiSkills (Oct 2023)
+<div align="center">
+  <a href="https://github.com/user-attachments/files/19885343/FREELANCING.pdf">
+    <img src="https://github.com/user-attachments/assets/f09fbd6c-22ba-4e67-a50b-b13ed6847b80" width="30%" />
+  </a>
+  <a href="https://github.com/user-attachments/files/19885345/VIRTUAL.ASSISTANT.pdf">
+    <img src="https://github.com/user-attachments/assets/fde2d347-afb5-4c16-9b4b-894e9dfdcf52" width="30%" />
+  </a>
+  <a href="https://github.com/user-attachments/files/19885344/COMMUNICATION.AND.SOFT.SKILLS.pdf">
+    <img src="https://github.com/user-attachments/assets/d21d3541-59bd-421a-90de-50712021a46f" width="30%" />
+  </a>
+</div>
 
 ### 🌱 Personal Growth
 - **40-Day Sunnah Challenge** | SOSS  
@@ -61,5 +69,3 @@
   "Web": ["FastAPI", "React"],
   "Tools": ["Altium", "Git", "VS Code"]
 }
-
-
