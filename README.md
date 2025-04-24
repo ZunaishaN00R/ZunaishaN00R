@@ -36,7 +36,8 @@
 ### 🚀 Professional Development
 - **Freelancing** | DigiSkills (Oct 2023)  
 - **Virtual Assistant** | DigiSkills (Feb 2024)  
-- **Communication & Soft Skills** | DigiSkills (Oct 2023)  
+- **Communication & Soft Skills** | DigiSkills (Oct 2023)
+  [COMMUNICATION AND SOFT SKILLS.pdf](https://github.com/user-attachments/files/19885322/COMMUNICATION.AND.SOFT.SKILLS.pdf)
 
 ### 🌱 Personal Growth
 - **40-Day Sunnah Challenge** | SOSS  
