@@ -16,7 +16,7 @@
   PM's Youth Skill Development Program | Superior University (Sep 2022)  
   ![AI](https://img.shields.io/badge/🔬-AI-yellowgreen)
   <div align="center">
-    <img src="" width="45%" />
+    <img src="https://github.com/user-attachments/assets/5f36b7df-cd67-4305-8386-b34e3be23b45" width="45%" />
    </div>
 
 ### 💻 Technical Skills
