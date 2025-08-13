@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zunaisha Noor
 
-💻 Developer @CodeMiners | Generative AI & Chatbot Enthusiast | Deploying LLMs on AWS & building APIs with FastAPI 🚀
+💻 Developer @AugAI | Generative AI & Chatbot Enthusiast | Deploying LLMs on AWS & building APIs with FastAPI 🚀
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://zunaishanoorportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://www.linkedin.com/in/zunaisha-noor-982791315)
