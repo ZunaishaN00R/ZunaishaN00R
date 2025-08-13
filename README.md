@@ -3,7 +3,7 @@
 💻 Developer @CodeMiners | Generative AI & Chatbot Enthusiast | Deploying LLMs on AWS & building APIs with FastAPI 🚀
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://zunaishanoorportfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/zunaisha-noor-982791315)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://www.linkedin.com/in/zunaisha-noor-982791315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL4AdNMDgQJ6QQghMVprHYw%3D%3D)
 [![Facebook](https://img.shields.io/badge/📘-Facebook-blue)](https://facebook.com/profile.php?id=61565115026868)
 [![Instagram](https://img.shields.io/badge/📸-Instagram-red)](https://www.instagram.com/zunaisha1767?igsh=MWNoeGwzeGZld2MwZw==)
 
